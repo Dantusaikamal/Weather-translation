@@ -455,7 +455,7 @@ section.what_you {
     line-height: 1.5em;
     letter-spacing: 2px;
     color: #fff;
-    font-weight: 100;
+    font-weight: 500;
     text-transform: capitalize;
     margin: 20px 0;
 }
@@ -484,7 +484,7 @@ section.what_you {
     background:rgba(255, 255, 255, 0.5);
 }
 section.what_you.py-5 p {
-    color: rgba(255, 255, 255, 0.52);
+    color: rgba(255, 255, 255, 0.8);
     font-size: 16px;
 }
 .augue {
