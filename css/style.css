@@ -499,7 +499,9 @@ section.what_you.py-5 p {
     text-transform: capitalize;
     margin:0 0 20px 0;
 }
-
+.augue_im1{
+    width: 67%;
+}
 section.augue p {
     font-size: 1rem;
     color: rgba(255, 255, 255, 0.85);
