@@ -1,4 +1,7 @@
 # Weather-translation
+<br>
+![alt text](https://github.com/Dantusaikamal/Weather-translation/blob//master/images/chatbot%20(1).png?raw=true)
+<br>
 
 ## Motivation: 
 
