@@ -1,6 +1,6 @@
 <p align="center">
   
-  # Weather-translation
+  # Weather translation
 
   <img width="230" height="150" src="https://github.com/Dantusaikamal/Weather-translation/blob/master/images/chatbot%20(1).png">
 </p>
