@@ -1,6 +1,9 @@
-# Weather-translation
+<p align="center">
+  
+  # Weather-translation
 
-![alt text](https://github.com/Dantusaikamal/Weather-translation/blob/master/images/chatbot%20(1).png?raw=true)
+  <img width="230" height="150" src="https://github.com/Dantusaikamal/Weather-translation/blob/master/images/chatbot%20(1).png">
+</p>
 
 ## Motivation: 
 
