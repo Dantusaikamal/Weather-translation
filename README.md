@@ -32,3 +32,7 @@ The chatbot also provides many modern farming methods which would result in a ma
 One more feature we want to include is weather forecast. We want to alert the farmer of any incoming storms so he would take all the precautionary measures.
 
 Our last feature would be providing a helpline for various emergencies. We are providing nation helpline 1800-200-6321 and also https://farmer.gov.in/ website for any queries and details.
+
+Here's a screenshot from the initial release of our webpage:
+<br>
+  <img src="https://github.com/Dantusaikamal/Weather-translation/blob/master/images/Screenshot.JPG">
