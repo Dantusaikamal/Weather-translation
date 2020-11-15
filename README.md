@@ -25,7 +25,7 @@ Farmer's Assistant can predict the best crop to sow based on multiple factors li
 Our chatbot is very userfriendly making it easy to use by all the farmers.
 Moreover, we are making sure language won't become a barrier to the farmers so we are using a language translation service allowing the farmer to interact with the chatbot in whichever language they is comfortable with.
 
-The chatbot is capable of answering more than 50 common farming queries in multiple languages. 
+The chatbot is capable of answering more than 50+ common farming queries in multiple languages. 
 
 The chatbot also provides many modern farming methods which would result in a maximum yield output if followed.
 
